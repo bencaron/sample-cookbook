@@ -6,5 +6,4 @@ Re-creation of clowns/bears from Chef Fundamentals
 - And testing syntax with knife
 - And it triggers builds.
 
-
-Another try.
+We are trying again, new branch, new PR
