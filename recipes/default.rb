@@ -13,8 +13,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-
-pafaffaf booom
+"afaff "aaaaai"
 
 package 'httpd' do
   action :install
