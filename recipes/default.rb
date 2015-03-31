@@ -13,10 +13,6 @@
 # All rights reserved - Do Not Redistribute
 #
 
-"afaff "aaaaai"
-
-''i'
-
 package 'httpd' do
   action :install
 end
